@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sandeeparukonda.github.io/csb-z0oxg1/static/css/main.4e29cdfd.chunk.css",
+    "main.js": "https://sandeeparukonda.github.io/csb-z0oxg1/static/js/main.1958111b.chunk.js",
+    "main.js.map": "https://sandeeparukonda.github.io/csb-z0oxg1/static/js/main.1958111b.chunk.js.map",
+    "runtime-main.js": "https://sandeeparukonda.github.io/csb-z0oxg1/static/js/runtime-main.a722a7e7.js",
+    "runtime-main.js.map": "https://sandeeparukonda.github.io/csb-z0oxg1/static/js/runtime-main.a722a7e7.js.map",
+    "static/js/2.87cae67c.chunk.js": "https://sandeeparukonda.github.io/csb-z0oxg1/static/js/2.87cae67c.chunk.js",
+    "static/js/2.87cae67c.chunk.js.map": "https://sandeeparukonda.github.io/csb-z0oxg1/static/js/2.87cae67c.chunk.js.map",
+    "index.html": "https://sandeeparukonda.github.io/csb-z0oxg1/index.html",
+    "static/css/main.4e29cdfd.chunk.css.map": "https://sandeeparukonda.github.io/csb-z0oxg1/static/css/main.4e29cdfd.chunk.css.map",
+    "static/js/2.87cae67c.chunk.js.LICENSE.txt": "https://sandeeparukonda.github.io/csb-z0oxg1/static/js/2.87cae67c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a722a7e7.js",
+    "static/js/2.87cae67c.chunk.js",
+    "static/css/main.4e29cdfd.chunk.css",
+    "static/js/main.1958111b.chunk.js"
+  ]
+}
